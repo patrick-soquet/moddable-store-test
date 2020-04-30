@@ -1,0 +1,13 @@
+{
+	"apps": [
+		 {
+			"id": "com.moddable.runmod",
+			"mods": [
+				{
+					"path": "mods/moddrag",
+				},
+			]
+		}
+	
+	]
+}

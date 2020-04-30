@@ -1,0 +1,12 @@
+{
+	"build": {
+		"TITLE": "Drag",
+		"SUBTITLE": "Four moving buttons",
+	},
+	"modules": {
+		"*": "./*",
+	},
+	"resources":{
+		"*-alpha": "./*"
+	},
+}
