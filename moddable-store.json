@@ -4,6 +4,7 @@
 			"id": "com.moddable.runmod",
 			"mods": [
 				{
+					"id": "com.moddable.moddrag",
 					"path": "mods/moddrag",
 				},
 			]
