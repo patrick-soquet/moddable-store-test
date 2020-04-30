@@ -19,7 +19,7 @@ const backgroundSkin = new Skin({ fill:"silver" });
 const bordersSkin = new Skin({ stroke:"black", left:2, right:2, top:2, bottom:2 });
 
 const buttonTexture = new Texture("button.png");
-const buttonSkin = new Skin({ texture:buttonTexture, color:["white", "#002f87"], x:0, y:0, width:60, height:40, tiles:{ left:20, right:20 } });
+const buttonSkin = new Skin({ texture:buttonTexture, color:["silver", "#002f87"], x:0, y:0, width:60, height:40, tiles:{ left:20, right:20 } });
 const buttonStyle = new Style({ font:"semibold 18px Open Sans", color:["black", "white"], });
 
 class DragBehavior extends Behavior {
