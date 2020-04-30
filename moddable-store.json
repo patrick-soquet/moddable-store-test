@@ -1,10 +1,10 @@
 {
 	"apps": [
 		 {
-			"id": "com.moddable.runmod",
+			"id": "tech.moddable.runmod",
 			"mods": [
 				{
-					"id": "com.moddable.moddrag",
+					"id": "tech.moddable.moddrag",
 					"path": "mods/moddrag",
 				},
 			]
