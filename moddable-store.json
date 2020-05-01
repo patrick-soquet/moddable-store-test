@@ -1,14 +1,9 @@
 {
-	"apps": [
-		 {
-			"id": "tech.moddable.runmod",
-			"mods": [
-				{
-					"id": "tech.moddable.moddrag",
-					"path": "mods/moddrag",
-				},
-			]
-		}
-	
-	]
+	"mods": {
+		"tech.moddable.runmod": [
+			{
+				"path": "mods/moddrag",
+			}
+		]
+	}
 }
