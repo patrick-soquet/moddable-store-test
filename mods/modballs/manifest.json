@@ -1,0 +1,12 @@
+{
+	"build": {
+		"TITLE": "Balls",
+		"SUBTITLE": "Four bouncing balls",
+	},
+	"modules": {
+		"*": "./*",
+	},
+	"resources":{
+		"*-alpha": "./*"
+	},
+}
