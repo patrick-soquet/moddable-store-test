@@ -1,6 +1,12 @@
 {
-	"mods": {
-		"tech.moddable.runmod": [
+	"tech.moddable.balls": {
+		"title": "Balls",
+		"subtitle": "Four bouncing balls",
+	},
+	"tech.moddable.runmod": {
+		"title": "Run Mods",
+		"subtitle": "User interface host",
+		"mods": [
 			{
 				"path": "mods/modballs",
 			},
@@ -8,7 +14,9 @@
 				"path": "mods/moddrag",
 			}
 		],
-		"tech.moddable.eink-base": [
+	},
+	"tech.moddable.eink-base": {
+		"mods": [
 			{
 				"path": "mods/eink-custom",
 			},
@@ -19,7 +27,9 @@
 				"path": "mods/eink-holiday",
 			}
 		],
-		"tech.moddable.thermostat-base": [
+	},
+	"tech.moddable.thermostat-base": {
+		"mods": [
 			{
 				"path": "mods/thermostat-base-mod",
 			},
