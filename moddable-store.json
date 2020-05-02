@@ -55,9 +55,9 @@
 				"path": "mods/thermostat-slider",
 			}
 		]
-	}
+	},
 	"tech.moddable.transitions": {
 		"title": "Transitions",
 		"subtitle": "Wipes and combs",
-	},
+	}
 }
