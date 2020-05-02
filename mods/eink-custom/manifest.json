@@ -1,8 +1,0 @@
-{
-	"modules": {
-		"*": "./*",
-	},
-	"resources": {
-		"*": "./top-left-disc"
-	},
-}
