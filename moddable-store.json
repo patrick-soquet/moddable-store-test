@@ -1,7 +1,7 @@
 {
 	"tech.moddable.thermostat-base": {
-		"title": "Thermostat Base",
-		"subtitle": "Designed by Moddable",
+		"release": {
+		},
 		"mods": [
 			{
 				"path": "thermostat-base-mod",
