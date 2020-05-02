@@ -3,19 +3,17 @@
 		"title": "Balls",
 		"subtitle": "Four bouncing balls",
 	},
-	"tech.moddable.runmod": {
-		"title": "Run Mods",
-		"subtitle": "User interface host",
-		"mods": [
-			{
-				"path": "mods/modballs",
-			},
-			{
-				"path": "mods/moddrag",
-			}
-		],
+	"tech.moddable.blink": {
+		"title": "Blink",
+		"subtitle": "LED test",
+	},
+	"tech.moddable.countdown": {
+		"title": "Countdown",
+		"subtitle": "Hue animation",
 	},
 	"tech.moddable.eink-base": {
+		"title": "Eink Base",
+		"subtitle": "Designed by Moddable",
 		"mods": [
 			{
 				"path": "mods/eink-custom",
@@ -28,7 +26,21 @@
 			}
 		],
 	},
+	"tech.moddable.runmod": {
+		"title": "Run Mods",
+		"subtitle": "User interface host",
+		"mods": [
+			{
+				"path": "mods/modballs",
+			},
+			{
+				"path": "mods/moddrag",
+			}
+		],
+	},
 	"tech.moddable.thermostat-base": {
+		"title": "Thermostat Base",
+		"subtitle": "Designed by Moddable",
 		"mods": [
 			{
 				"path": "mods/thermostat-base-mod",
@@ -44,4 +56,8 @@
 			}
 		]
 	}
+	"tech.moddable.transitions": {
+		"title": "Transitions",
+		"subtitle": "Wipes and combs",
+	},
 }
