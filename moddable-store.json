@@ -1,6 +1,13 @@
 {
 	"tech.moddable.thermostat-base": {
 		"app": {
+			"preferences": [
+				{
+					"path": "config",
+					"title": "Wi-Fi",
+					"subtitle": "Network and password",
+				}
+			]
 		},
 		"mods": [
 			{
