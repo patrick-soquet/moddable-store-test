@@ -1,20 +1,25 @@
 {
 	"tech.moddable.thermostat-base": {
 		"app": {
+			"author": "Moddable",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
 			"preferences": [
 				{
 					"path": "config",
 					"title": "Wi-Fi",
-					"subtitle": "Network and password",
 				}
 			]
 		},
 		"mods": [
 			{
 				"path": "thermostat-base-mod",
+				"author": "Moddable",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
 			},
 			{
 				"path": "thermostat-slider",
+				"author": "Moddable",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
 			}
 		]
 	},
