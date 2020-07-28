@@ -1,8 +1,9 @@
 {
 	"tech.moddable.thermostat-base": {
 		"app": {
+			"title": "Thermostat",
 			"author": "Moddable",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+			"description": "A basic thermostat. You can change change the look of the product and add features with mods.",
 			"preferences": [
 				{
 					"path": "wifi",
@@ -12,14 +13,16 @@
 		},
 		"mods": [
 			{
+				"title": "Thermostat Plus",
 				"path": "thermostat-base-mod",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Add the time, date, and weather forecast to the basic thermostat",
 			},
 			{
+				"title": "Slider",
 				"path": "thermostat-slider",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Adjust the desired temperature using a rainbow slider",
 			}
 		]
 	},
