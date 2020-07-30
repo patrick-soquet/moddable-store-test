@@ -1,29 +1,2 @@
 {
-	"tech.moddable.thermostat-base": {
-		"app": {
-			"title": "Thermostat",
-			"author": "Moddable",
-			"description": "A basic thermostat. You can change change the look of the product and add features with mods.",
-			"preferences": [
-				{
-					"path": "wifi",
-					"title": "Wi-Fi",
-				}
-			]
-		},
-		"mods": [
-			{
-				"title": "Thermostat Plus",
-				"path": "thermostat-base-mod",
-				"author": "Moddable",
-				"description": "Add the time, date, and weather forecast to the basic thermostat",
-			},
-			{
-				"title": "Slider",
-				"path": "thermostat-slider",
-				"author": "Moddable",
-				"description": "Adjust the desired temperature using a rainbow slider",
-			}
-		]
-	},
 }
