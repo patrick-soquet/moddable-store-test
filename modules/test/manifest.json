@@ -1,0 +1,10 @@
+{
+	"modules": {
+		"*": [
+			"./test"
+		]
+	},
+	"preload": [
+		"test"
+	]
+}
